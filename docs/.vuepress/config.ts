@@ -6,7 +6,7 @@ import { createSidebar } from './sidebar'
 export default defineUserConfig({
 	bundler: viteBundler({}),
 
-  base: "/aposd2e-zh/",
+  base: "/book-aposd2e-zh/",
 
   locales: {
     '/': {
