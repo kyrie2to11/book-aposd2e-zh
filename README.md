@@ -1,4 +1,4 @@
-[![Build and Deploy](https://github.com/kyrie2to11/book-aposd2e-zh/actions/workflows/CI.yml/badge.svg)](https://github.com/kyrie2to11/book-aposd2e-zh/actions/workflows/CI.yml)
+[![Build and Deploy](https://github.com/kyrie2to11/book-aposd2e-zh/actions/workflows/pages.yml/badge.svg)](https://github.com/kyrie2to11/book-aposd2e-zh/actions/workflows/pages.yml)
 # 《软件设计的哲学，第二版》 中文翻译
 
 在线阅读：[简体中文](https://kyrie2to11.github.io/book-aposd2e-zh/) | [繁体中文](https://kyrie2to11.github.io/book-aposd2e-zh/zh-tw/)
